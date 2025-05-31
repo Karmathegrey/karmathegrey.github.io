@@ -26,6 +26,7 @@ h1 {
     font-family: "Barriecito", system-ui;
     font-weight: 400;
     font-style: normal;
+    font-size: 90px;
     color: var(--headers);
     text-shadow: var(--text-shadow);
 }
